@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: native@naver.com
+ 
+gateway:
+  ip: localhost

@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: de123v@naver.com
+  secret: de123v#1@naver.com
  
 gateway:
   ip: localhost

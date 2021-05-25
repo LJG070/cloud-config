@@ -3,10 +3,10 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}AQA9nqWmlH7f03kYXLMLjwmKELLfhKzBhKZm3zrdVuOsgUDZrP+lKgQsvb7ZejfM3sVmfo6XdJWCxxXL+W0GWgR+N/JF6A3VtK+YXjAmRAw70JaomOerual3mENJUyyIAGRDVvCqVJERZ6Dv843KykKWrtFdujlbgh3Abv+dLQpGbmyFS+ESF1tXkQELeLsveTJ3H9OSno/CG+vKJa2qQjI7LBwT6JNvEQyeux03XJpej7LVIUfCk4RJMq331qmQ3d0MyJVBjKRZqrKyuoqT+uxtc0ilOJdq4jbKwiBS85ECa8NlJGVjMSUiBcsOT58bPyA2KHnKaOg+Yf4RzO03Xh4BPVZBM++d/64XWn5h3Y0ON7y0N12y+svV1d5nnLgAh+Y='
+    password: 1234
 token:
   expiration_time: 86400000
-  secret: '{cipher}AQC1o7/2gBUewHxI/7VNO21HBubuIl07NqLfhCgStDXu7inHA2YacjgolF1jhwmswgoPv+WBWd/hTPFFDIroXawYFmTXTYNVbnr6Uv6+c3kmhbGKSOc5PjPWuDk9ZfxQpC0Scvn1ZC1DXIkiAByDk9XfKUTcaocAPH0SR//S66XsnNwwPjRssDGwxeYIVVk7v48tmP2IM1POovAhCIjPKDlXRn1yR72KPCyNLGLbOg3vj8JBTpyT/dc502gME/xiV2uomRieQlCYP5Ev5Fy0ysbbY6yHlTv35ds95a3Xe10eXQOBA0MbG23jdzOgw1vBUqcBRKFs8pPOv/l46qY8OHUm5iylX2vqDGFVIxZZWBA7TVO0hH8kAHU1TLNuWYmJtVQ1W0xzwmri9k5pHKY0z4HA'
+  secret: msa
  
 gateway:
   ip: localhost

@@ -9,7 +9,7 @@ token:
   secret: msa
  
 gateway:
-  ip: localhost
+  ip: 13.124.201.208
 
 order_service:
   url: http://3.36.153.217:8000/order-service/%s/orders
